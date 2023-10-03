@@ -1,0 +1,14 @@
+/Users/sheyx/Desktop/Doviz/bin/Debug/net7.0/Doviz
+/Users/sheyx/Desktop/Doviz/bin/Debug/net7.0/Doviz.deps.json
+/Users/sheyx/Desktop/Doviz/bin/Debug/net7.0/Doviz.runtimeconfig.json
+/Users/sheyx/Desktop/Doviz/bin/Debug/net7.0/Doviz.dll
+/Users/sheyx/Desktop/Doviz/bin/Debug/net7.0/Doviz.pdb
+/Users/sheyx/Desktop/Doviz/obj/Debug/net7.0/Doviz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sheyx/Desktop/Doviz/obj/Debug/net7.0/Doviz.AssemblyInfoInputs.cache
+/Users/sheyx/Desktop/Doviz/obj/Debug/net7.0/Doviz.AssemblyInfo.cs
+/Users/sheyx/Desktop/Doviz/obj/Debug/net7.0/Doviz.csproj.CoreCompileInputs.cache
+/Users/sheyx/Desktop/Doviz/obj/Debug/net7.0/Doviz.dll
+/Users/sheyx/Desktop/Doviz/obj/Debug/net7.0/refint/Doviz.dll
+/Users/sheyx/Desktop/Doviz/obj/Debug/net7.0/Doviz.pdb
+/Users/sheyx/Desktop/Doviz/obj/Debug/net7.0/Doviz.genruntimeconfig.cache
+/Users/sheyx/Desktop/Doviz/obj/Debug/net7.0/ref/Doviz.dll
